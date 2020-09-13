@@ -10221,8 +10221,9 @@ header.masthead h1 {
   color: rgba(255, 255, 255, 0.75);
 }
 
+
 /*--------------------------------------------------------------
- /*Plan*/
+# Plan
 --------------------------------------------------------------*/
 .pricing .box {
   padding: 20px;
@@ -10230,6 +10231,7 @@ header.masthead h1 {
   text-align: center;
   border-radius: 8px;
   position: relative;
+  overflow: hidden;
   border: 1px solid #f9f9f9;
 }
 
